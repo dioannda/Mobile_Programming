@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blueGrey,
-          title: const Text("Aplikasi Ini Punya Dio"),
+          title: const Text("Aplikasi Ini Punya Dio Ananda Maulana WIjaya"),
         ),
         body: GridView(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
