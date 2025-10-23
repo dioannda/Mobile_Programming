@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         ),
         body: GridView(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 3, // jumlah kolom
+            crossAxisCount: 3,
           ),
           children: [
             Container(color: Colors.purple),
