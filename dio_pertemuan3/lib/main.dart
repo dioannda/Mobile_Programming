@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "index",
       routes: {
         "index": (context) => index(),
-        "makanan": (context) => makanan(),
+        "makanan": (context) => MakananScreen(),
         "minuman": (context) => minuman(),
         "snack": (context) => snack()
       },
